@@ -1,0 +1,13 @@
+{
+  "id" : "https://d-due-lencis.github.io/CAS-2026duer/manifests/collection.json",
+  "label" : {
+    "en" : [ "All manifests loaded in d-due-lencis/CAS-2026duer project" ]
+  },
+  "type" : "Collection",
+  "@context" : "http://iiif.io/api/presentation/3/context.json",
+  "items" : [ {
+    "@type" : "sc:Manifest",
+    "@id" : "https://d-due-lencis.github.io/CAS-2026duer/manifests/manifest.json",
+    "label" : "'Heidelberger Bilderkatechismus' (Handschrift) ; Biblia pauperum (Blockbuch) ; Totentanz (Blockbuch) u.a."
+  } ]
+}
