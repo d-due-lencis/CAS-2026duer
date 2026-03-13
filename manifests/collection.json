@@ -9,5 +9,9 @@
     "@type" : "sc:Manifest",
     "@id" : "https://d-due-lencis.github.io/CAS-2026duer/manifests/manifest.json",
     "label" : "'Heidelberger Bilderkatechismus' (Handschrift) ; Biblia pauperum (Blockbuch) ; Totentanz (Blockbuch) u.a."
+  }, {
+    "@type" : "sc:Manifest",
+    "@id" : "https://d-due-lencis.github.io/CAS-2026duer/manifests/manifest_1.json",
+    "label" : "'Heidelberger Bilderkatechismus' (Handschrift) ; Biblia pauperum (Blockbuch) ; Totentanz (Blockbuch) u.a."
   } ]
 }
